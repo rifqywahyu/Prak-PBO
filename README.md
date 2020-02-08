@@ -1,2 +1,2 @@
 # Prak-PBO
-Praktikum PBO
+Tugas praktikum pemrograman berbasi objek
